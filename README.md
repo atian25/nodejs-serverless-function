@@ -1,6 +1,8 @@
 # Node.js Hello World
 
-Simple Node.js + Vercel example that returns a "Hello World" response.
+Simple Node.js + Vercel example that returns a "Hi there" response.
+
+This example demonstrates how to implement a function in `api/hello.ts` that greets a user based on the `name` query parameter. If no `name` query parameter is provided, the function defaults to greeting "there" instead of "World".
 
 ## How to Use
 
